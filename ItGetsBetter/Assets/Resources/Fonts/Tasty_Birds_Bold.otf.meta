@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a9648d6250e8c548a300ba5b4cd159b
+timeCreated: 1497395278
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tasty Birds
+  fontNames:
+  - Tasty Birds
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
