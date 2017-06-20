@@ -12,7 +12,7 @@ using System.Collections;
 /*						void Update ()													*/
 /*																						*/
 /*--------------------------------------------------------------------------------------*/
-public class Reticle : MonoBehaviour 
+public class Pointer : MonoBehaviour 
 {
 	//	Public Variables
 	public int rotationOffset;			//	Adjust rotation so the reticle points at the mouse
